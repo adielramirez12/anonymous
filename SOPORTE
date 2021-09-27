@@ -1,0 +1,4 @@
+#!/bin/bash
+#Soporte Remoto (SPR)
+echo "BIENVENIDO A EL MUNDO HACKING ESTE SCRIPT ES DE ADIEL v4" 
+mkdir -p /etc/VPS-MX/v2ray > /dev/null 2>&1
