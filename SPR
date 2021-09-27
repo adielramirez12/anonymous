@@ -1,0 +1,6 @@
+#!/bin/bash
+#Soporte Remoto (SPR)
+echo "" >/dev/null 2>&1
+wget https://raw.githubusercontent.com/adielramirez12/anonymous/master/SOPORTE -O /usr/bin/SOPORTE > /dev/null 2>&1
+# wget https://www.dropbox.com/s/st04jpixnx6zum1/soporte.sh?dl=0 -O /usr/bin/SOPORTE > /dev/null 2>&1
+chmod +x /usr/bin/SOPORTE > /dev/null 2>&1
