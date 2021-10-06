@@ -372,7 +372,6 @@ IDB1=`less /etc/VPS-MX/controlador/IDT.log` > /dev/null 2>&1
 IDB2=`echo $IDB1` > /dev/null 2>&1
 
 KEY="862633455:AAGJ9BBJanzV6yYwLSemNAZAVwn7EyjrtcY"
-URL="https://api.telegram.org/bot$KEY/sendMessage"
 MSG="⚠️ ►► AVISO DE VPS: $NOM1 ⚠
 👉 ►► MENSAJE DE PRUEBA
 🔰 ►► NOTI-BOT ACTIVADO CORRECTAMENTE"
